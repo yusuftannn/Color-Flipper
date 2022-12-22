@@ -1,0 +1,17 @@
+.margin-auto {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#btn {
+    position: absolute;
+    left: 50%;
+    top: 57%;
+    transform: translate(-50%, -50%);
+}
+.bgBorder {
+    border-style: inset;
+    border-radius: 8px;
+}
